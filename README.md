@@ -1,6 +1,5 @@
 # drive3.0
 
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 drive3.0 is a full-stack web3 application that enables users to store and share images in a decentralized manner using the IPFS network. The project leverages Solidity for smart contracts, Hardhat for development, and ReactJS for the frontend.
 
@@ -11,7 +10,6 @@ drive3.0 is a full-stack web3 application that enables users to store and share 
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Features
