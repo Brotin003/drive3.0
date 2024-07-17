@@ -18,7 +18,6 @@ drive3.0 is a full-stack web3 application that enables users to store and share 
 - Secure Solidity smart contracts for image management.
 - User-friendly interface built with ReactJS.
 - Supports uploading, viewing, and sharing images.
-- Scalable and efficient, with planned CI/CD pipeline integration.
 
 ## Tech Stack
 
